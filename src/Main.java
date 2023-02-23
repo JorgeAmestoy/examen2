@@ -23,6 +23,7 @@ public class Main {
         int edad = EntradaSalida.entradaString2("¿Cual es tu edad?");
         EntradaSalida.salida(String.valueOf(edad),EntradaSalida.SALIDA_CONSOLA);
         //Hola
+        //hola
 
 
     }
